@@ -1,0 +1,14 @@
+.ant-page-header.header {
+    color: white;
+}
+
+.ant-page-header-ghost {
+    background-color: inherit;
+}
+
+.ant-page-header-heading {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
