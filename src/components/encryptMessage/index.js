@@ -53,7 +53,7 @@ const encrypt = () => {
         alert("Something is missing")
     }
 
-    return;
+    return 0;
 };
 
 const onChoice = (value) => {
